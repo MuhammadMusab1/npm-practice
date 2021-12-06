@@ -1,0 +1,24 @@
+{
+  "name": "sd130-learning",
+  "version": "1.0.0",
+  "description": "testing out npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadMusab1/npm-practice.git"
+  },
+  "author": "Muhammad Musab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammadMusab1/npm-practice/issues"
+  },
+  "homepage": "https://github.com/MuhammadMusab1/npm-practice#readme",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "dayjs": "^1.10.7",
+    "moment": "^2.29.1"
+  }
+}
