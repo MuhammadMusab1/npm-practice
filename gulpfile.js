@@ -13,10 +13,4 @@ function stylesTask() {
 }
 
 
-
-function defaultTask(cb) {
-  // place code for your default task here
-  cb();
-}
-
 exports.default = series(pagesTask, scriptTask, stylesTask);
