@@ -20,3 +20,4 @@ function deleteTask() {
 
 exports.default = series(pagesTask, scriptTask, stylesTask);
 exports.d = deleteTask;
+exports.pages = pagesTask;
